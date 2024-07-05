@@ -1,5 +1,7 @@
 github.com/danielgtaylor/huma/v2 v2.18.0 h1:L6AoiCD9WGxUFnAQMZpEub1hnRJpEs7ZUdWwvkrUWHE=
 github.com/danielgtaylor/huma/v2 v2.18.0/go.mod h1:fFOnahr3rZdFha4rqDq7rjb8q3CPuZvCjoP37qg8fTI=
+github.com/go-chi/chi/v5 v5.1.0 h1:acVI1TYaD+hhedDJ3r54HyA6sExp3HfXq7QWEEY/xMw=
+github.com/go-chi/chi/v5 v5.1.0/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
 github.com/golang/snappy v0.0.4 h1:yAGX7huGHXlcLOEtBnF4w7FQwA26wojNCwOYAEhLjQM=
 github.com/golang/snappy v0.0.4/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
 github.com/klauspost/compress v1.17.7 h1:ehO88t2UGzQK66LMdE8tibEd1ErmzZjNEqWkjLAKQQg=
